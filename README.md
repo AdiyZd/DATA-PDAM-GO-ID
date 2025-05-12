@@ -89,5 +89,5 @@
 
 ---
 
-⚠️ **Peringatan:** Data ini bersifat **publik**. Saya **tidak bertanggung jawab** atas penyalahgunaan atau konsekuensi yang timbul.
+⚠️ **Peringatan:** Data ini bersifat **privat/privasi**. Saya **tidak bertanggung jawab** atas penyalahgunaan atau konsekuensi yang timbul.
 
