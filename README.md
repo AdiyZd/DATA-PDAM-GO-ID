@@ -1,3 +1,4 @@
 # DATA-PDAM-GO-ID
 
-<span style="color: yellow">Kuning</span>
+![Kuning](https://img.shields.io/badge/Kuning-%20-%23FFFF00?style=flat&color=FFFF00)
+
