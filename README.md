@@ -88,3 +88,6 @@
 ```
 
 ---
+
+⚠️ **Peringatan:** Data ini bersifat **publik**. Saya **tidak bertanggung jawab** atas penyalahgunaan atau konsekuensi yang timbul.
+
